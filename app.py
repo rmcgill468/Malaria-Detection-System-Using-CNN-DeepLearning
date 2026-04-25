@@ -155,4 +155,4 @@ if uploaded_file is not None:
             """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.markdown('<p style="text-align:center; color:#ffffff; font-size:20px;">Malaria Detection System | Built with CNN & Streamlit</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align:center; color:#ffffff; font-size:20px;">Malaria Detection System | Built with CNN & Streamlit | By Russell MCGill</p>', unsafe_allow_html=True)
